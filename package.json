@@ -1,0 +1,14 @@
+{
+  "name": "loopback-component-storage-seaweedfs",
+  "version": "0.0.1",
+  "description": "Loopback Component Storage for Seaweedfs Storage Engine",
+  "main": "index.js",
+  "repository": "https://gendigbadig@gitlab.suararadio.com/gendigbadig/loopback-component-storage-seaweedfs.git",
+  "author": "Rahmat Nugraha <rn.rahmatnugraha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "busboy": "^0.2.14",
+    "lodash": "^4.17.4",
+    "node-seaweedfs": "https://github.com/gendigbadig/node-weedfs.git"
+  }
+}
